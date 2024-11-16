@@ -1,1 +1,1 @@
-# DSA_CSE_LAB
+<b> This Repository contains all the Codes for Data Structure and algorithms for CSE </b>
